@@ -47,9 +47,12 @@ profiles:
     url: https://orcid.org/0000-0002-6857-2000
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning and Statistical Pattern Recognition
+  - Deep Learning
+  - Image Processing
+  - Natural language processing
+  - Bioinformatics
+  - Data Mining
 
 education:
   - area: PhD Artificial Intelligence
