@@ -60,7 +60,7 @@ education:
     date_start: 2021-09-23
     date_end: 2024-01-20
     summary: |
-      Thesis on "A natural language processing approach for predicting the lysine malonylation sites in protein" Supervised by<a href="Prof. Mohammad Ghasemzadeh">http://example.com/</a>. As part of my thesis, I had the honor of presenting both a conference paper and a journal article. Additionally, I currently have an article under review.
+      Thesis on "A natural language processing approach for predicting the lysine malonylation sites in protein" Supervised by <a href="http://pws.yazd.ac.ir/ghasemzadeh/English.htm">Prof. Mohammad Ghasemzadeh</a>. As part of my thesis, I had the honor of presenting both a conference paper and a journal article. Additionally, I currently have an article under review.
 
       GPA: 18.12 out of 20
       
@@ -192,3 +192,6 @@ awards:
 ## About Me
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+
+[def]: rof. Mohammad Ghasemzade
