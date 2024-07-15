@@ -86,17 +86,15 @@ education:
       Thesis Title: “Recent applications of deep learning and machine intelligence in drug discovery:methods, tools and databases” 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Teacher assistant (TA)
+    company_name: Yazd University, Yazd, Iran
+    company_url: 'https://www.yazd.ac.ir/en'
+    company_logo: 'https://images.search.yahoo.com/search/images;_ylt=AwrFDbKEhZVm_JISq8dXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210US885G0&p=Yazd+University&fr=mcafee&th=300&tw=170&imgurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DYazd%2BUniversity&rurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DYazd%2BUniversity&name=Yazd+University&h=1024&w=580&turl=https%3A%2F%2Fs.yimg.com%2Fzb%2Fimgv1%2F8a7c33fe-bc22-302a-9dba-7ac2cc790bb4%2Ft_500x300&tt=Yazd+University&sigr=Ecu0AvJ4nMtY&sigit=ET4YHhPF1dSg&sigi=Djd7w2CyalUj&sign=HR6Iw.HDzn8Z&sigt=HR6Iw.HDzn8Z'
+    date_start: 2023
+    date_end: 2024
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I am working as a teacher assistant in the Specialized Language of Computer Engineering course for the bachelor 
+      The supervision of professor Dr Mohammad Ghasemzadeh
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -145,11 +143,10 @@ skills:
 
 languages:
   - name: English
+    percent: 80
+  - name: Persion
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -185,7 +182,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a highly motivated individual with a strong passion for research. Aspiring to pursue a Ph.D., I thrive in intellectually stimulating environments and am committed to contributing innovative ideas to the field. My curiosity drives me to explore complex problems, and I am dedicated to making meaningful contributions through rigorous investigation and scholarly work.
 
-
-[def]: rof. Mohammad Ghasemzade
