@@ -1,5 +1,5 @@
 ---
-title: 'Academic Experience'
+title: 'Experience'
 date: 2023-10-24
 type: landing
 
@@ -16,7 +16,7 @@ sections:
     design:
       # Hugo date format
       date_format: 'January 2006'
-      # Education or Academic Experience section first?
+      # Education or Experience section first?
       is_education_first: true
   - block: resume-skills
     content:
