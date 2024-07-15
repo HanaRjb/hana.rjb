@@ -60,12 +60,19 @@ education:
     date_start: 2021-09-23
     date_end: 2024-01-20
     summary: |
-      GPA: 3.8/4.0
+      Thesis on "A natural language processing approach for predicting the lysine malonylation sites in protein" Supervised by Prof. Mohammad Ghasemzadeh(https://pws.yazd.ac.ir/ghasemzadeh/English.htm). As part of my thesis, I had the honor of presenting both a conference paper and a journal article. Additionally, I currently have an article under review.
 
+      GPA: 18.12 out of 20
+      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Pattern Recognition
+      - Evolutionary Computing
+      - Digital Imaging
+      - Neural Networks
+      - Natural Language Processing
+      - Machine Learning
+      - Data Mining
+
     button:
       text: 'Read Abstract Of Thesis'
       url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
@@ -74,12 +81,16 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 18.12 out of 20
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Pattern Recognition
+      - Evolutionary Computing
+      - Digital Imaging
+      - Neural Networks
+      - Natural Language Processing
+      - Machine Learning
+      - Data Mining
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
