@@ -3,7 +3,7 @@
 title: Hananeh Rajabiun
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: حنانه رجبیون
 
 # Full name (for SEO)
 first_name: Hananeh
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/Hananeh-Rjb-Eng
+    url: https://github.com/HanaRjb
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hananeh-rajabiun/
   - icon: academicons/google-scholar
@@ -55,15 +55,15 @@ interests:
   - Data Mining
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area:
+    institution: 
+    date_start: 
+    date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Abstract Of Thesis'
+      url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
