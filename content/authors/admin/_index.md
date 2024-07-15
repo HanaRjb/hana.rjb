@@ -54,16 +54,7 @@ interests:
   - Bioinformatics
   - Data Mining
 
-education:
-  - area:
-    institution: 
-    date_start: 
-    date_end: 
-    summary: |
-      
-    button:
-      text: 'Read Abstract Of Thesis'
-      url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
+education:    
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -75,6 +66,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    button:
+      text: 'Read Abstract Of Thesis'
+      url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
