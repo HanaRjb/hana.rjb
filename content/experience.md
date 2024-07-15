@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Academic Experience'
 date: 2023-10-24
 type: landing
 
@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-Academic experience
+  - block: resume-experience
     content:
       username: admin
     design:
