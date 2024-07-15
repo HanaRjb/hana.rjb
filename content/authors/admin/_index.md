@@ -3,7 +3,7 @@
 title: Hananeh Rajabiun
 
 # Name pronunciation (optional)
-name_pronunciation: حنانه رجبیون
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Hananeh
