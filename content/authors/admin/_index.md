@@ -60,7 +60,7 @@ education:
     date_start: 2021-09-23
     date_end: 2024-01-20
     summary: |
-      Thesis on "A natural language processing approach for predicting the lysine malonylation sites in protein" Supervised by <a href="http://pws.yazd.ac.ir/ghasemzadeh/English.htm">Prof. Mohammad Ghasemzadeh</a>. As part of my thesis, I had the honor of presenting both a conference paper and a journal article. Additionally, I currently have an article under review.
+      Thesis on “A natural language processing approach for predicting the lysine malonylation sites in protein” Supervised by <a href="http://pws.yazd.ac.ir/ghasemzadeh/English.htm">Prof. Mohammad Ghasemzadeh</a>. As part of my thesis, I had the honor of presenting both a conference paper and a journal article. Additionally, I currently have an article under review.
 
       GPA: 18.12 out of 20
       
@@ -76,21 +76,15 @@ education:
     button:
       text: 'Read Abstract Of Thesis'
       url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+  - area: B.Sc. Computer Engineering (Software)
+    institution: Kashmar Higher Education Institute, Kashmar, Iran
+    date_start: 2017-09-23
+    date_end: 2021-02-11
     summary: |
-      GPA: 18.12 out of 20
-      
-      Courses included:
-      - Pattern Recognition
-      - Evolutionary Computing
-      - Digital Imaging
-      - Neural Networks
-      - Natural Language Processing
-      - Machine Learning
-      - Data Mining
+      GPA: 18.66 out of 20
+      Thesis Title: “Recent applications of deep learning and machine intelligence in drug discovery:methods, tools and databases” 
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
