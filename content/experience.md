@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-Academic experience
+  - block: resume- experience
 
     content:
       title: Academic Experience
