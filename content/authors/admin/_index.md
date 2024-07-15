@@ -55,10 +55,10 @@ interests:
   - Data Mining
 
 education:    
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Computer Engineering (Artificial intelligence and robotics)
+    institution: Yazd University, Yazd, Iran
+    date_start: 2021-09-23
+    date_end: 2024-01-20
     summary: |
       GPA: 3.8/4.0
 
