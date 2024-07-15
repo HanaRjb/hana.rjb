@@ -85,7 +85,7 @@ education:
       GPA: 18.66 out of 20
       Thesis Title: “Recent applications of deep learning and machine intelligence in drug discovery:methods, tools and databases” 
 
-work:
+Academic Experience:
   - position: Teacher assistant (TA)
     company_name: Yazd University, Yazd, Iran
     company_url: 'https://www.yazd.ac.ir/en'
