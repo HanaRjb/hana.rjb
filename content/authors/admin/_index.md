@@ -60,7 +60,7 @@ education:
     date_start: 2021-09-23
     date_end: 2024-01-20
     summary: |
-      Thesis on "A natural language processing approach for predicting the lysine malonylation sites in protein" Supervised by [Prof. Mohammad Ghasemzadeh](https://pws.yazd.ac.ir/ghasemzadeh/English.htm)<span></span>. As part of my thesis, I had the honor of presenting both a conference paper and a journal article. Additionally, I currently have an article under review.
+      Thesis on "A natural language processing approach for predicting the lysine malonylation sites in protein" Supervised by [Prof. Mohammad Ghasemzadeh][https://pws.yazd.ac.ir/ghasemzadeh/English.htm]. As part of my thesis, I had the honor of presenting both a conference paper and a journal article. Additionally, I currently have an article under review.
 
       GPA: 18.12 out of 20
       
