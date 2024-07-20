@@ -74,10 +74,10 @@ education:
       - Data Mining
 
     button:
-      text: 'Read English Abstract Of Thesis'
-      url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
-      text: 'Read Fasi Of Thesis'
-      url: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
+      text1: 'Read English Abstract Of Thesis'
+      url1: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
+      text2: 'Read Fasi Of Thesis'
+      url2: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
 
   - area: B.Sc. Computer Engineering (Software)
     institution: Kashmar Higher Education Institute, Kashmar, Iran
