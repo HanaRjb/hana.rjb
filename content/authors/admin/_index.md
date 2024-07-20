@@ -73,10 +73,10 @@ education:
       - Machine Learning
       - Data Mining
 
-    button:
+    button1:
       text: 'Read English Abstract Of Thesis'
       url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
-    button:
+    button2:
       text: 'Read Fasi Of Thesis'
       url: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
 
