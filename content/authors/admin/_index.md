@@ -73,7 +73,12 @@ education:
       - Machine Learning
       - Data Mining
 
-چ
+    button-1:
+      text: 'Read English Abstract Of Thesis'
+      url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
+    button-2:
+      text: 'Read Fasi Of Thesis'
+      url: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
 
   - area: B.Sc. Computer Engineering (Software)
     institution: Kashmar Higher Education Institute, Kashmar, Iran
@@ -97,8 +102,10 @@ work:
     date_start: 2023-09-21
     date_end: 2024-01-20
     summary: |2-
-      I am working as a teacher assistant in the Specialized Language of Computer Engineering course for the bachelor 
-      The supervision of professor Dr Mohammad Ghasemzadeh
+      
+      I serve as a teaching assistant for the Specialized Language of Computer Engineering course—a vital bridge for our bachelor students. Under the expert guidance of Professor Dr. Mohammad Ghasemzadeh, I navigate the intricacies of technical language, ensuring our future engineers wield both syntax and semantics with precision.
+
+      
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
