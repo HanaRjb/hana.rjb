@@ -73,10 +73,9 @@ education:
       - Machine Learning
       - Data Mining
 
-    button-1:
+    button:
       text: 'Read English Abstract Of Thesis'
       url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
-    button-2:
       text: 'Read Fasi Of Thesis'
       url: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
 
@@ -105,7 +104,7 @@ work:
       
       I serve as a teaching assistant for the Specialized Language of Computer Engineering course—a vital bridge for our bachelor students. Under the expert guidance of Professor Dr. Mohammad Ghasemzadeh, I navigate the intricacies of technical language, ensuring our future engineers wield both syntax and semantics with precision.
 
-      
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
