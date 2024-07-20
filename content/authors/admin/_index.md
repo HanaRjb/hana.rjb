@@ -74,8 +74,11 @@ education:
       - Data Mining
 
     button:
-      text: 'Read Abstract Of Thesis'
+      text: 'Read English Abstract Of Thesis'
       url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
+    button:
+      text: 'Read Fasi Of Thesis'
+      url: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
 
   - area: B.Sc. Computer Engineering (Software)
     institution: Kashmar Higher Education Institute, Kashmar, Iran
@@ -85,6 +88,11 @@ education:
       GPA: 18.66 out of 20
       
       Thesis Title: “Recent applications of deep learning and machine intelligence in drug discovery:methods, tools and databases” 
+    
+    
+    button:
+      text: 'Read Fasi Of Thesis'
+      url: https://docs.google.com/document/d/1yYn1ygaD-jzu8SSi5X1uaZx8qJAWTrlq/edit?usp=drive_link&ouid=105262498162350443206&rtpof=true&sd=true
 
 work:
   - position: Teacher assistant (TA)
