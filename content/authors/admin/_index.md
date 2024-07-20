@@ -73,12 +73,8 @@ education:
       - Machine Learning
       - Data Mining
 
-    button1:
-      text: 'Read English Abstract Of Thesis'
-      url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
-    button2:
-      text: 'Read Fasi Of Thesis'
-      url: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
+    [Read English Abstract Of Thesis](https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing){: .button}
+    [Read Farsi Abstract Of Thesis](https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link){: .button}
 
   - area: B.Sc. Computer Engineering (Software)
     institution: Kashmar Higher Education Institute, Kashmar, Iran
