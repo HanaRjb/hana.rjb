@@ -74,10 +74,8 @@ education:
       - Data Mining
 
     button:
-      text1: 'Read English Abstract Of Thesis'
-      url1: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
-      text2: 'Read Fasi Of Thesis'
-      url2: https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link
+      text: 'Read English Abstract Of Thesis'
+      url: https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing
 
   - area: B.Sc. Computer Engineering (Software)
     institution: Kashmar Higher Education Institute, Kashmar, Iran
@@ -96,8 +94,8 @@ education:
 work:
   - position: Teacher assistant (TA)
     company_name: Yazd University, Yazd, Iran
-    company_url: 'https://www.yazd.ac.ir/en'
-    company_logo: 'https://images.search.yahoo.com/search/images;_ylt=AwrFDbKEhZVm_JISq8dXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210US885G0&p=Yazd+University&fr=mcafee&th=300&tw=170&imgurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DYazd%2BUniversity&rurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DYazd%2BUniversity&name=Yazd+University&h=1024&w=580&turl=https%3A%2F%2Fs.yimg.com%2Fzb%2Fimgv1%2F8a7c33fe-bc22-302a-9dba-7ac2cc790bb4%2Ft_500x300&tt=Yazd+University&sigr=Ecu0AvJ4nMtY&sigit=ET4YHhPF1dSg&sigi=Djd7w2CyalUj&sign=HR6Iw.HDzn8Z&sigt=HR6Iw.HDzn8Z'
+    company_url: https://www.yazd.ac.ir/en
+    company_logo: https://images.search.yahoo.com/search/images;_ylt=AwrFDbKEhZVm_JISq8dXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210US885G0&p=Yazd+University&fr=mcafee&th=300&tw=170&imgurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DYazd%2BUniversity&rurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DYazd%2BUniversity&name=Yazd+University&h=1024&w=580&turl=https%3A%2F%2Fs.yimg.com%2Fzb%2Fimgv1%2F8a7c33fe-bc22-302a-9dba-7ac2cc790bb4%2Ft_500x300&tt=Yazd+University&sigr=Ecu0AvJ4nMtY&sigit=ET4YHhPF1dSg&sigi=Djd7w2CyalUj&sign=HR6Iw.HDzn8Z&sigt=HR6Iw.HDzn8Z
     date_start: 2023-09-21
     date_end: 2024-01-20
     summary: |2-
@@ -105,7 +103,7 @@ work:
       I serve as a teaching assistant for the Specialized Language of Computer Engineering course—a vital bridge for our bachelor students. Under the expert guidance of Professor Dr. Mohammad Ghasemzadeh, I navigate the intricacies of technical language, ensuring our future engineers wield both syntax and semantics with precision.
 
 
-  - position: Backend Software Engineer
+  - position: Teacher Assistant
     company_name: X
     company_url: ''
     company_logo: ''
