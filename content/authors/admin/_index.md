@@ -73,9 +73,7 @@ education:
       - Machine Learning
       - Data Mining
 
-    <button onclick="window.open('https://drive.google.com/file/d/1ZQPA6AuTBcmdNiEnSKwkocPSpocU0skX/view?usp=sharing')">Read English Abstract Of Thesis</button>
-
-    <button onclick="window.open('https://drive.google.com/file/d/149ZQSk5pg6UkGRhk6kxZc1mHkfHV9Oid/view?usp=drive_link')">Read Farsi Abstract Of Thesis</button>
+چ
 
   - area: B.Sc. Computer Engineering (Software)
     institution: Kashmar Higher Education Institute, Kashmar, Iran
