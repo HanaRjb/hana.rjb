@@ -106,20 +106,24 @@ work:
   - position: Teacher assistant (TA)
     company_name: Iran's National Elites Foundation . . . بنیاد ملی نخبگان
     company_url: ''
-    company_logo: ''
+    company_logo: /workspaces/hana.rjb/assets/media/icons/productivity-ability-talent-productive-svgrepo-com.svg
     date_start: 2022-09-21
     date_end: 2023-06-19
     summary: |2-
       In pursuit of my master’s degree in computer engineering with a specialization in artificial intelligence at Yazd University, I had the honor of being selected by the National Elite Foundation’s Shahid Vazawi project. During the first and second semesters of the 1401-1402 academic year, I served as a teaching assistant for courses in natural language processing (NLP) and algorithms. Under the guidance of Dr. Ghasem Zadeh, I delved into the intricacies of these fields, supporting fellow students and contributing to their learning journey
 
-  - position: Teacher assistant (TA)
-    company_name: Iran's National Elites Foundation . . . بنیاد ملی نخبگان
+  - position: Instructor
+    company_name: Kashmir University of Higher Education 
     company_url: ''
     company_logo: ''
-    date_start: 2022-09-21
-    date_end: 2023-06-19
+    date_start: 2021-09-21
+    date_end: 2022-01-25
     summary: |2-
-      In pursuit of my master’s degree in computer engineering with a specialization in artificial intelligence at Yazd University, I had the honor of being selected by the National Elite Foundation’s Shahid Vazawi project. During the first and second semesters of the 1401-1402 academic year, I served as a teaching assistant for courses in natural language processing (NLP) and algorithms. Under the guidance of Dr. Ghasem Zadeh, I delved into the intricacies of these fields, supporting fellow students and contributing to their learning journey
+
+      As an instructor, I was privileged to lead computer and advanced programming workshops. In the computer workshop, we explored algorithms, debugging techniques, and the art of efficient problem-solving. 
+
+      In the advanced programming workshop, we delved deeper—into data structures, threading, and design patterns. Each line of code became a brushstroke, crafting elegant solutions.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
