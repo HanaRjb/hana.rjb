@@ -36,7 +36,7 @@ featured: true
 links:
 - name: Custom Link
   url: https://www.sciencedirect.com/science/article/abs/pii/S0169743922000077?via%3Dihub
-url_pdf: 
+url_pdf: https://drive.google.com/file/d/1b0sej7VG3-ItUm5tucUcwJflj6deLy0R/view?usp=drive_link
 url_code: 'https://github.com/HadiZareZadeh/Hybrid-feature-selection-method-for-predicting-lysine-malonylation-sites-in-proteins'
 url_dataset: ''
 url_poster: ''
