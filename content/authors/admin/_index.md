@@ -141,11 +141,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Programming proficiency in Python, C++
+        description: 'Familiarity with machine learning frameworks like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Karas, TensorFlow'
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Strong understanding of algorithms and data structures
         description: ''
         percent: 100
         icon: chart-bar
