@@ -17,7 +17,7 @@ publishDate: "2022-03-15"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Chemometrics and Intelligent Laboratory Systems"
+publication: "*Chemometrics and Intelligent Laboratory Systems*"
 publication_short: ""
 
 abstract: Providing efficient methods for analyzing medical data is one of the important needs of modern biological sciences. For this, in this paper, a new feature selection method is introduced using the combination of several feature selection methods. At first, the algorithms of EAAC, EGAAC, PKa, TF-IDF, TF-CRF, and PSSM are expressed, which are among the well-known methods for feature extraction, and then three proposed models are provided that are the combinations of these algorithms. The proposed method has been implemented on three lysine malonylation datasets of M. musculus, H. sapiens, and E. coli, and also several machine learning methods have been used to categorization the data. Finally, to show the efficiency of the proposed method, some important parameters have been calculated and compared with other feature extraction methods. Furthermore, the results have been compared with several well-known articles and the results have been reported tabularly and graphically.
