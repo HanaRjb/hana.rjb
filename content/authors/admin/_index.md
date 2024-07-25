@@ -144,7 +144,7 @@ skills:
       - name: Programming proficiency in Python, C++
         description: 'Familiarity with machine learning frameworks like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Karas, TensorFlow'
         percent: 80
-        icon: assets/media/icons/checkmark-svgrepo-com (1).svg
+        icon: checkmark-svgrepo-com (1).svg
       - name: Strong understanding of algorithms and data structures
         description: ''
         percent: 100
