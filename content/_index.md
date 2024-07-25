@@ -44,6 +44,7 @@ sections:
       columns: '1'
   - block: collection
     content:
+    id: papers
       title: Recent Publications
       text: ""
       filters:
