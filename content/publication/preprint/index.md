@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "A hybrid feature selection method for predicting lysine malonylation sites in proteins via machine learning"
 authors:
 - admin
 - Mahdis Mohammadhoseini
@@ -37,12 +37,12 @@ links:
   url: https://www.sciencedirect.com/science/article/abs/pii/S0169743922000077?via%3Dihub
 url_pdf: https://drive.google.com/file/d/1b0sej7VG3-ItUm5tucUcwJflj6deLy0R/view?usp=drive_link
 url_code: 'https://github.com/HadiZareZadeh/Hybrid-feature-selection-method-for-predicting-lysine-malonylation-sites-in-proteins'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -57,7 +57,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
