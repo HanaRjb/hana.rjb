@@ -26,15 +26,16 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 13th International Conference on Information Technology and Knowledge*
-publication_short: In *IKT*
+publication_short: In *IKT* (In Persian)
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  یکی از مهمترین اصلاحات پس از ترجمه (PTMs) در پروتئین‌ها، مالونیلاسیون لیزین است که تأثیر بر عملکرد سلول‌ها می‌گذارد. برای آشکارسازی مکانیسم‌های عملکردهای سلولی لازم است محل مالونیلاسیون در پروتئین‌ها را شناسایی کرد. روش‌هایی مبتنی بر راه‌حل‌های یادگیری ماشینی پیشنهاد شده‌اند که باعث کاهش هزینه‌ها و پیچیدگی‌های زمانی و افزایش دقت می‌شود. با این حال، این رویکردها همچنان با کاستی‌هایی همراه هستند. این پژوهش نشان می‌دهد که در رابطه با یافتن جایگاه مالونیلاسیون در پروتئین‌ها، چگونه می‌توان با بهره‌گیری از رویکرد پردازش زبان طبیعی، فرکانس واژه - ضریب ارتباط دسته، به نتایجی مطلوب دست‌یافت. روش پیشنهادی توسط توابع تخصصی مربوطه و در محیط پایتون، پیاده‌سازی و اجرا گردید. نتایج اعتبار سنجی متقابل نشان‌دهنده عملکرد خوب رویکرد پیشنهادی است. علاوه بر این، طبقه‌بندی‌کننده‌‌ی XGBOOST  و جنگل تصادفی بر دیگر طبقه‌بندی کننده‌ها برتر بود، که نشان‌دهنده اثربخشی ویژگی‌های تولیدشده توسط طرح پیشنهادی است.
+.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-  - Large Language Models
+
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,7 +50,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1QETFOajqbL92c_kZ-a621l77ATEucquH/edit?usp=drive_link&ouid=105262498162350443206&rtpof=true&sd=true'
 url_source: ''
 url_video: ''
 
