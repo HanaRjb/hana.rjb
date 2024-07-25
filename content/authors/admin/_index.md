@@ -11,7 +11,8 @@ last_name: Rajabiun
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👩🏻‍💻️
+  
 
 # Is this the primary user of the site?
 superuser: true
@@ -106,7 +107,7 @@ work:
   - position: Teacher assistant (TA)
     company_name: Iran's National Elites Foundation . . . بنیاد ملی نخبگان
     company_url: ''
-    company_logo: /workspaces/hana.rjb/assets/media/icons/productivity-ability-talent-productive-svgrepo-com.svg
+    company_logo: ''
     date_start: 2022-09-21
     date_end: 2023-06-19
     summary: |2-
@@ -133,7 +134,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: /workspaces/hana.rjb/assets/media/icons/productivity-ability-talent-productive-svgrepo-com.svg
       - name: Data Science
         description: ''
         percent: 100
