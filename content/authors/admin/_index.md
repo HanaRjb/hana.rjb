@@ -174,23 +174,6 @@ skills:
         description: ''
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
 languages:
   - name: English
     percent: 80
