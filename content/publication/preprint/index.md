@@ -1,12 +1,13 @@
 ---
-title: "An example preprint / working paper"
+title: "A hybrid feature selection method for predicting lysine malonylation sites in proteins via machine learning"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-21"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,27 +18,32 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Providing efficient methods for analyzing medical data is one of the important needs of modern biological sciences. For this, in this paper, a new feature selection method is introduced using the combination of several feature selection methods. At first, the algorithms of EAAC, EGAAC, PKa, TF-IDF, TF-CRF, and PSSM are expressed, which are among the well-known methods for feature extraction, and then three proposed models are provided that are the combinations of these algorithms. The proposed method has been implemented on three lysine malonylation datasets of M. musculus, H. sapiens, and E. coli, and also several machine learning methods have been used to categorization the data. Finally, to show the efficiency of the proposed method, some important parameters have been calculated and compared with other feature extraction methods. Furthermore, the results have been compared with several well-known articles and the results have been reported tabularly and graphically.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
+•A new feature selection method is developed for predicting lysine malonylation sites in proteins
+•The method is obtained by the combination of several feature selection methods.
+•Deep learning is used for analyzing medical data in biological sciences.
+•Several machine learning methods is used to categorization the data.
+•The method can significantly improve the prediction performance of protein malonylation sites.
 
 tags:
-- Large Language Models
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0169743922000077?via%3Dihub
+url_pdf: 
+url_code: 'https://github.com/HadiZareZadeh/Hybrid-feature-selection-method-for-predicting-lysine-malonylation-sites-in-proteins'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,11 +67,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
