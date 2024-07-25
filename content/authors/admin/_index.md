@@ -144,7 +144,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: assets/media/icons/productivity-ability-talent-productive-svgrepo-com.svg
+        icon: productivity-ability-talent-productive-svgrepo-com
       - name: Data Science
         description: ''
         percent: 100
