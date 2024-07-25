@@ -141,39 +141,59 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Programming proficiency in Python, C++
-        description: 'Familiarity with machine learning frameworks like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Karas, TensorFlow'
+      - name: Programming
+        description: 'Proficient in Python, C++ and C.'
         percent: 80
         icon: "/custom/checkmark-svgrepo-com (1)"
-
-      - name: Strong understanding of algorithms and data structures
-        description: ''
+      - name: ML frameworks
+        description: 'Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Keras, TensorFlow,...'
+        percent: 80
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: Algorithms
+        description: 'Strong understanding of algorithms and data structures.'
         percent: 100
         icon: "/custom/checkmark-svgrepo-com (1)"
-      - name: Experience with neural networks and deep learning techniques
+      - name: Deep Learning
+        description: 'Experience with neural networks and deep learning techniques.'
+        percent: 40
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: AI Domains
+        description: 'Knowledge of NLP, Computer Vision, and Data Mining.'
+        percent: 40
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: Data Analysis
         description: ''
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
-      - name: Knowledge of Natural Language Processing, Computer Vision, and Data Mining
+      - name: Problem-Solving
         description: ''
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
-      - name: Ability to analyze and interpret complex data sets
+      - name: Research & Writing
         description: ''
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
-      - name: Problem-solving skills and logical thinking abilities
+      - name: Collaboration
         description: ''
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
-      - name: Excellent research and academic writing skills
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
         description: ''
-        percent: 40
-        icon: "/custom/checkmark-svgrepo-com (1)"
-      - name: Effective communication and collaboration in team environments
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
         description: ''
-        percent: 40
-        icon: "/custom/checkmark-svgrepo-com (1)"
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
 languages:
   - name: English
     percent: 80
