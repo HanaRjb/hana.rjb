@@ -43,8 +43,8 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: papers    
     content:
-    id: papers
       title: Recent Publications
       text: ""
       filters:
