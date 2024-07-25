@@ -124,6 +124,16 @@ work:
       As an instructor, I was privileged to lead computer and advanced programming workshops. In the computer workshop, we explored algorithms, debugging techniques, and the art of efficient problem-solving. 
 
       In the advanced programming workshop, we delved deeper—into data structures, threading, and design patterns. Each line of code became a brushstroke, crafting elegant solutions.
+  
+  - position: Teacher assistant (TA)
+    company_name: Kashmir University of Higher Education 
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-01-30
+    date_end: 2018-05-25
+    summary: |2-
+
+      As a teaching assistant in general mathematics, I stepped into the fascinating world of numbers, equations, and problem-solving. Guiding students through mathematical concepts and unraveling the mysteries of algebra, calculus, and geometry was like being a math detective.
 
 
 # Skills
@@ -134,7 +144,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: /workspaces/hana.rjb/assets/media/icons/productivity-ability-talent-productive-svgrepo-com.svg
+        icon: assets/media/icons/productivity-ability-talent-productive-svgrepo-com.svg
       - name: Data Science
         description: ''
         percent: 100
