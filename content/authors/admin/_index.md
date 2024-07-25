@@ -142,39 +142,39 @@ skills:
   - name: Technical Skills
     items:
       - name: Programming
-        description: 'Proficient in Python, C++ and C.'
+        description: ' Proficient in Python, C++ and C.'
         percent: 80
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: ML frameworks
-        description: 'Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Keras, TensorFlow,...'
+        description: ' Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Keras, TensorFlow,...'
         percent: 80
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: Algorithms
-        description: 'Strong understanding of algorithms and data structures.'
+        description: ' Strong understanding of algorithms and data structures.'
         percent: 100
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: Deep Learning
-        description: 'Experience with neural networks and deep learning techniques.'
+        description: ' Experience with neural networks and deep learning techniques.'
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: AI Domains
-        description: 'Knowledge of NLP, Computer Vision, and Data Mining.'
+        description: ' Knowledge of NLP, Computer Vision, and Data Mining.'
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: Data Analysis
-        description: ''
+        description: ' Ability to analyze and interpret complex data sets'
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: Problem-Solving
-        description: ''
+        description: ' Strong logical thinking and problem-solving skills.'
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: Research & Writing
-        description: ''
+        description: ' Excellent academic writing and research abilities.'
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
       - name: Collaboration
-        description: ''
+        description: ' Effective communication and teamwork.'
         percent: 40
         icon: "/custom/checkmark-svgrepo-com (1)"
   - name: Hobbies
