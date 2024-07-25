@@ -144,7 +144,7 @@ skills:
       - name: Programming proficiency in Python, C++
         description: 'Familiarity with machine learning frameworks like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Karas, TensorFlow'
         percent: 80
-        icon: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="size-6">  <path fillRule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm0 8.625a1.125 1.125 0 1 0 0 2.25 1.125 1.125 0 0 0 0-2.25ZM15.375 12a1.125 1.125 0 1 1 2.25 0 1.125 1.125 0 0 1-2.25 0ZM7.5 10.875a1.125 1.125 0 1 0 0 2.25 1.125 1.125 0 0 0 0-2.25Z" clipRule="evenodd" /></svg>
+        icon: assets/media/icons/checkmark-svgrepo-com (1).svg
 
       - name: Strong understanding of algorithms and data structures
         description: ''
