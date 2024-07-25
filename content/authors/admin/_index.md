@@ -144,12 +144,12 @@ skills:
       - name: Programming proficiency in Python, C++
         description: 'Familiarity with machine learning frameworks like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Karas, TensorFlow'
         percent: 80
-        icon: code-bracket
+        icon: •
       - name: Strong understanding of algorithms and data structures
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Experience with neural networks and deep learning techniques
         description: ''
         percent: 40
         icon: circle-stack
