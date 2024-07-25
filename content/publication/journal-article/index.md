@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Efficient Prediction of Protein Malanylation Sites Using NLP and Machine Learning"
 authors:
 - admin
-- Robert Ford
+- Mohammad Ghasemzadeh
+- Masroor Hassan
+
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-07-2"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +20,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*COJ Robtic & Artificial Intelligence*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This research fills a scientific gap by addressing the challenge of identifying the site of Malanylation in proteins. It highlights the importance of efficient solutions that reduce execution time and improve output accuracy. The study introduces a novel framework for extracting informative features from protein functional domains. Multiple classifiers are utilized for prediction and experimental results indicate that the CRF-Mal method outperforms other approaches. Notably, the XG Boost classifier demonstrates superior performance compared to alternative classifiers.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
+- Malanylation
+- Machine learning
+- Natural language processing
+- Feature extraction
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://drive.google.com/file/d/1Gd9WbrY4nS3-Qs_p_uesq8exLn6z7OVO/view?usp=drive_link
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
