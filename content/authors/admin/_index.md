@@ -149,11 +149,31 @@ skills:
       - name: Strong understanding of algorithms and data structures
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: "/custom/checkmark-svgrepo-com (1)"
       - name: Experience with neural networks and deep learning techniques
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: Knowledge of Natural Language Processing, Computer Vision, and Data Mining
+        description: ''
+        percent: 40
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: Ability to analyze and interpret complex data sets
+        description: ''
+        percent: 40
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: Problem-solving skills and logical thinking abilities
+        description: ''
+        percent: 40
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: Excellent research and academic writing skills
+        description: ''
+        percent: 40
+        icon: "/custom/checkmark-svgrepo-com (1)"
+      - name: Effective communication and collaboration in team environments
+        description: ''
+        percent: 40
+        icon: "/custom/checkmark-svgrepo-com (1)"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
