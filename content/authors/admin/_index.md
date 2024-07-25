@@ -103,17 +103,23 @@ work:
       I serve as a teaching assistant for the Specialized Language of Computer Engineering course—a vital bridge for our bachelor students. Under the expert guidance of Professor Dr. Mohammad Ghasemzadeh, I navigate the intricacies of technical language, ensuring our future engineers wield both syntax and semantics with precision.
 
 
-  - position: Teacher Assistant
-    company_name: X
+  - position: Teacher assistant (TA)
+    company_name: Iran's National Elites Foundation . . . بنیاد ملی نخبگان
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2022-09-21
+    date_end: 2023-06-19
+    summary: |2-
+      In pursuit of my master’s degree in computer engineering with a specialization in artificial intelligence at Yazd University, I had the honor of being selected by the National Elite Foundation’s Shahid Vazawi project. During the first and second semesters of the 1401-1402 academic year, I served as a teaching assistant for courses in natural language processing (NLP) and algorithms. Under the guidance of Dr. Ghasem Zadeh, I delved into the intricacies of these fields, supporting fellow students and contributing to their learning journey
+
+  - position: Teacher assistant (TA)
+    company_name: Iran's National Elites Foundation . . . بنیاد ملی نخبگان
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-21
+    date_end: 2023-06-19
+    summary: |2-
+      In pursuit of my master’s degree in computer engineering with a specialization in artificial intelligence at Yazd University, I had the honor of being selected by the National Elite Foundation’s Shahid Vazawi project. During the first and second semesters of the 1401-1402 academic year, I served as a teaching assistant for courses in natural language processing (NLP) and algorithms. Under the guidance of Dr. Ghasem Zadeh, I delved into the intricacies of these fields, supporting fellow students and contributing to their learning journey
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
