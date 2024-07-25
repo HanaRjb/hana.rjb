@@ -181,18 +181,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Fitness Sports
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: "/custom/hb"
+      - name: Video Games
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: "/custom/hb"
+      - name: Reading
         description: ''
         percent: 80
-        icon: camera
+        icon: "/custom/hb"
+      - name: Cooking/Baking
+        description: ''
+        percent: 80
+        icon: "/custom/hb"
 
 languages:
   - name: English
