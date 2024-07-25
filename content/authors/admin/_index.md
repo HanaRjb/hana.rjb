@@ -197,6 +197,19 @@ skills:
         description: ''
         percent: 80
         icon: "/custom/hb"
+      - name: Hiking and Outdoor Adventures
+        description: ''
+        percent: 80
+        icon: "/custom/hb"
+      - name: Playing Chess or Board Games
+        description: ''
+        percent: 80
+        icon: "/custom/hb"
+
+      - name: Yoga and Meditation
+        description: ''
+        percent: 80
+        icon: "/custom/hb"
 
 languages:
   - name: English
