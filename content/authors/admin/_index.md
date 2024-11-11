@@ -239,6 +239,8 @@ awards:
     icon: Coursera
     summary: |
       This course taught me how to construct programs from simple instructions, explored Python’s syntax, and covered essential concepts like variables, loops, and functions. By completing this course, I gained foundational skills for more advanced programming😊👩‍💻
+
+      
   - title: Introduction to Natural Language Processing in Python
     url: https://www.datacamp.com/completed/statement-of-accomplishment/course/c97e834477b4c82ab9971b100d3e59b41f58cd32
     date: '2024-11-07'
