@@ -239,6 +239,13 @@ awards:
     icon: Coursera
     summary: |
       This course taught me how to construct programs from simple instructions, explored Python’s syntax, and covered essential concepts like variables, loops, and functions. By completing this course, I gained foundational skills for more advanced programming😊👩‍💻
+  - title: Introduction to Natural Language Processing in Python
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/course/c97e834477b4c82ab9971b100d3e59b41f58cd32
+    date: '2024-11-07'
+    awarder: DataCamp
+    icon: DataCamp
+    summary: |
+        Regular Expressions & Word Tokenization: Learning the basics of NLP, parsing text with regex, and tackling non-English text.Simple Topic Identification: Identifying topics from text using models like bag-of-words and Tf-idf, experimenting with NLTK and Gensim.Named-Entity Recognition: Discovering how to pinpoint the 'who', 'what', and 'where' in texts with polyglot and spaCy.Building a "Fake News" Classifier: Applying supervised machine learning to detect and classify fake news articles.
 ---
 
 ## About Me
