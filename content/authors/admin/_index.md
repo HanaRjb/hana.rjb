@@ -248,6 +248,40 @@ awards:
     icon: DataCamp
     summary: |
         Regular Expressions & Word Tokenization: Learning the basics of NLP, parsing text with regex, and tackling non-English text.Simple Topic Identification: Identifying topics from text using models like bag-of-words and Tf-idf, experimenting with NLTK and Gensim.Named-Entity Recognition: Discovering how to pinpoint the 'who', 'what', and 'where' in texts with polyglot and spaCy.Building a "Fake News" Classifier: Applying supervised machine learning to detect and classify fake news articles.
+
+  - title: Feature Engineering for NLP in Python
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/course/f64b54330b4139030f331696d96500f3064ccb85
+    date: '2024-11-06'
+    awarder: DataCamp
+    icon: DataCamp
+    summary: |
+        🎓 This advanced course deepened my understanding of extracting and processing useful information from text, making it suitable for applying ML models. I learned about POS tagging, named entity recognition, readability scores, the n-gram and tf-idf models, and how to implement them using scikit-learn and spaCy. Moreover, I explored computing similarities between documents, predicting the sentiment of movie reviews, and even building recommenders for movies and TED Talks! 📚
+
+  - title: MLOps Concepts
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/course/c1334b72739ca123454bdf27335f67324fbf2ded
+    date: '2024-11-08'
+    awarder: DataCamp
+    icon: DataCamp
+    summary: |
+        🌟 This course took me through the entire lifecycle of ML models, from design and development to deployment and monitoring. I discovered how automation can revolutionize the way organizations manage their machine learning models, making launches, updates, and monitoring a breeze.
+
+
+  - title: Sentiment Analysis in Python
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/course/edac82913907274adc79ec9e584e6af61e976855
+    date: '2024-11-08'
+    awarder: DataCamp
+    icon: DataCamp
+    summary: |
+        Using real-world datasets from tweets, movie and product reviews, I utilized Python's nltk and scikit-learn packages. By the end of the course, I successfully carried out an end-to-end sentiment analysis based on how US airline passengers expressed their feelings on Twitter. 
+
+
+  - title: Introduction to LLMs in Python
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/course/c69749256309c28d7fd18eb9254c53523ea708be
+    date: '2024-11-09'
+    awarder: DataCamp
+    icon: DataCamp
+    summary: |
+        I completed a hands-on course on Large Language Models (LLMs) that equipped me with practical knowledge and skills to understand, build, and harness their power for complex language tasks like translation, language generation, and question-answering. Through interactive coding exercises, I learned to work with transformers and explored pre-trained language models and datasets from Hugging Face. By the end of the course, I gained the ability to fine-tune and evaluate LLMs using specialized metrics and understood the key challenges and ethical considerations for real-world applications. 🚀
 ---
 
 ## About Me
